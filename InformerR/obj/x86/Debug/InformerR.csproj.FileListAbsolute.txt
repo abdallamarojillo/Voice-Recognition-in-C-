@@ -1,0 +1,11 @@
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\bin\Debug\InformerR.exe
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\bin\Debug\InformerR.pdb
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.Form1.resources
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.Properties.Resources.resources
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.csproj.GenerateResource.Cache
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.exe
+c:\users\abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.pdb
+C:\Users\Abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.csprojResolveAssemblyReference.cache
+C:\Users\Abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.Form2.resources
+C:\Users\Abdalla\documents\visual studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.Form4.resources
+C:\Users\Abdalla\Documents\Visual Studio 2010\Projects\InformerR\InformerR\obj\x86\Debug\InformerR.Form3.resources
